@@ -3,9 +3,9 @@
 Infraestrutura em nuvem AWS com API Gateway, DynamoDB, AWS Lambda e AWS CloudFormation utilizando o framework Serverless para o desenvolvimento. Plataforma de treinamento Digital Innovation One.
 
 ## Etapas
- 
- I) Possuir uma conta na AWS e instalar o Node.js;
- II) Instalar o AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
+
+ - Possuir uma conta na AWS e instalar o Node.js;
+ - Instalar o AWS CLI: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
 
 ### Setup inicial
 
